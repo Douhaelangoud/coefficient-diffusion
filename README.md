@@ -27,21 +27,7 @@ Interactive interface: Built with ipywidgets for easy input and output.
 
 Real-time calculation: Computes the diffusion coefficient and error instantly.
 
-Error handling: Ensures that 
-x
-A
-+
-x
-B
-=
-1
-x 
-A
-​
- +x 
-B
-​
- =1 before performing calculations.
+s.
 
 Scientific output: Displays results in scientific notation for precision.
 
